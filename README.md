@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently studying in Sichuan University
+- 🌱 I’m currently learning computer science
+- 👯 I’m looking to collaborate on open-source
+- 🤔 By blog: https://blog.icyfeather.cf/
+- 📫 My E-mail: mengzhuo.happy@gmail.com
+- ⚡ Hobbies: basketball, soccer, badminton, table tennis ...
+- 😄 Looking forward to be good friends with you!
