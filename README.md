@@ -22,5 +22,3 @@ Here are some ideas to get you started:
 - 📫 My E-mail: mengzhuo.happy@gmail.com
 - ⚡ Hobbies: basketball, soccer, badminton, table tennis ...
 - 😄 Looking forward to be good friends with you!
-
-![](https://profile-summary-for-github.com/user/IcyFeather233)
