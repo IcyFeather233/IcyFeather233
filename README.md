@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning computer science
 - 👯 I’m looking to collaborate on open-source
 - 🤔 By personal webpage: [robin-chen's page](https://robin-chen.netlify.app/)
-- 📫 My E-mail: icyfeather@foxmail.com
+- 📫 My E-mail: mengzhuo.happy@gmail.com
 - ⚡ Hobbies: basketball, soccer, badminton, table tennis ...
 - 😄 Looking forward to be good friends with you!
 
