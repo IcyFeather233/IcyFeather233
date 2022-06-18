@@ -23,5 +23,17 @@ Here are some ideas to get you started:
 - ⚡ Hobbies: basketball, soccer, badminton, table tennis ...
 - 😄 Looking forward to be good friends with you!
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IcyFeather233&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IcyFeather233)](https://github.com/anuraghazra/github-readme-stats)
+
+<table>
+<tr>
+<td style = "width: 50%;">
+
+[![TOMMY's github stats](https://github-readme-stats.vercel.app/api?username=IcyFeather233&count_private=true&include_all_commits=true&hide_border=true&show_icons=true)](http://apex.linn.top/)
+
+</td>
+<td style = "width: 50%;">
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IcyFeather233&count_private=true&include_all_commits=true&hide_border=true&layout=compact)](http://apex.linn.top/)
+
+</td>
+</tr>
