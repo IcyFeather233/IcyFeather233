@@ -18,22 +18,13 @@ Here are some ideas to get you started:
 - 🔭 I’m currently studying in Sichuan University
 - 🌱 I’m currently learning computer science
 - 👯 I’m looking to collaborate on open-source
-- 🤔 My personal webpage: [robin-chen's page](https://robin-chen.netlify.app/)
 - 📫 My E-mail: mengzhuo.happy@gmail.com
 - ⚡ Hobbies: basketball, soccer, badminton, table tennis ...
 - 😄 Looking forward to be good friends with you!
 
+### Account Statistics[^1]
 
-<table>
-<tr>
-<td style = "width: 50%;">
+![my account stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=IcyFeather233&theme=github_dark)![a pie diagram of programming languages by repo](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=IcyFeather233&theme=github_dark)
 
-[![TOMMY's github stats](https://github-readme-stats.vercel.app/api?username=IcyFeather233&count_private=true&include_all_commits=true&hide_border=true&show_icons=true)](http://apex.linn.top/)
-
-</td>
-<td style = "width: 50%;">
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IcyFeather233&count_private=true&include_all_commits=true&hide_border=true&layout=compact)](http://apex.linn.top/)
-
-</td>
-</tr>
+<!-- footnotes -->
+[^1]: Provided by 3rd party service [GitHub Profile Summary Cards](https://github-profile-summary-cards.vercel.app) ([source](https://github.com/vn7n24fzkq/github-profile-summary-cards)). The availability and authenticity of information in this section is not guaranteed.
