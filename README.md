@@ -24,10 +24,3 @@ Here are some ideas to get you started:
 ### Account Statistics[^1]
 
 ![my account stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=IcyFeather233&theme=github_dark)![a pie diagram of programming languages by repo](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=IcyFeather233&theme=github_dark)
-
-### Personal Status
-
-![Fun fact #0: here is a picture that you disabled people will not be able to see because everyone is putting images in their personal readme and nobody cares about accessibility.](https://github.com/Jamesits/Jamesits/raw/master/assets/meme_side_project.jpg)
-
-<!-- footnotes -->
-[^1]: Provided by 3rd party service [GitHub Profile Summary Cards](https://github-profile-summary-cards.vercel.app) ([source](https://github.com/vn7n24fzkq/github-profile-summary-cards)). The availability and authenticity of information in this section is not guaranteed.
