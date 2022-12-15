@@ -21,6 +21,6 @@ Here are some ideas to get you started:
 - ⚡ Hobbies: basketball, soccer, badminton, table tennis ...
 - 😄 Looking forward to be good friends with you!
 
-### Account Statistics[^1]
+### Account Statistics
 
 ![my account stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=IcyFeather233&theme=github_dark)![a pie diagram of programming languages by repo](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=IcyFeather233&theme=github_dark)
