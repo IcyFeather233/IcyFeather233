@@ -15,15 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently studying in Institute of Software Chinese Academy of Sciences
 - 🌱 I major in Computer Science and Technology
-- 👯 I’m looking to collaborate on Machine Learning, IoT, ...
+- 👯 I’m looking to collaborate on LLM, Machine Learning, IoT, ...
 - ⚡ Hobbies: basketball, soccer, badminton, table tennis ...
 - 😄 Looking forward to be good friends with you!
-
-### My status
-
-![image](https://user-images.githubusercontent.com/56245435/209147797-44c1b8cb-5f22-4b6b-8cc0-0b31017b9f86.png)
 
 ### Account Statistics
 
